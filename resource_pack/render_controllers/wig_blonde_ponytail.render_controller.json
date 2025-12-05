@@ -1,0 +1,21 @@
+{
+  "format_version": "1.20.0",
+  "render_controllers": {
+    "controller.render.wig_blonde_ponytail": {
+      "arrays": {
+        "textures": {
+          "array_texture": [
+            "textures/models/armor/wig_blonde_ponytail"
+          ]
+        }
+      },
+      "geometry": "geometry.wig_blonde_ponytail",
+      "materials": [
+        { "*": "armor" }
+      ],
+      "textures": [
+        "array_texture[0]"
+      ]
+    }
+  }
+}

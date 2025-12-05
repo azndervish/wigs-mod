@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:item": {
+    "description": {
+      "identifier": "wigmod:wig_blonde_ponytail",
+      "category": "Equipment"
+    },
+    "components": {
+      "minecraft:icon": {
+        "texture": "wig_blonde_ponytail"
+      }
+    }
+  }
+}
