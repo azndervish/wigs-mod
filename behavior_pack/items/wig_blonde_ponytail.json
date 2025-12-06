@@ -6,18 +6,15 @@
       "category": "equipment"
     },
     "components": {
-      "minecraft:icon": {
-        "texture": "wig_blonde_ponytail"
-      },
-      "minecraft:render_offsets": "armor",
-      "minecraft:armor": {
-        "protection": 0,
-        "slot": "slot.armor.head"
-      },
-      "minecraft:max_stack_size": 1,
-      "minecraft:durability": {
-        "max_durability": 0
-      }
+  "minecraft:icon": {
+    "texture": "wig_blonde_ponytail"
+  },
+  "minecraft:render_offsets": "helmets",
+  "minecraft:armor": {
+    "protection": 0,
+    "slot": "slot.armor.head"
+  },
+  "minecraft:max_stack_size": 1
     }
   }
 }
