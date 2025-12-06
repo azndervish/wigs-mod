@@ -1,0 +1,12 @@
+{
+  "format_version": "1.20.0",
+  "minecraft:attachable": {
+    "description": {
+      "identifier": "wigmod:wig_blonde_ponytail",
+      "materials": { "default": "armor" },
+      "textures": { "default": "textures/models/armor/wig_blonde_ponytail" },
+      "geometry": { "default": "geometry.wig_blonde_ponytail" },
+      "render_controllers": [ "controller.render.wig_blonde_ponytail" ]
+    }
+  }
+}
