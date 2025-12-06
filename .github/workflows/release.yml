@@ -40,5 +40,5 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: ./c.zip
-          asset_name: c.zip
+          asset_name: wigs.mcaddon
           asset_content_type: application/zip
