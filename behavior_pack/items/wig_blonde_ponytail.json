@@ -6,7 +6,9 @@
       "category": "equipment"
     },
     "components": {
-      "minecraft:icon": "wig_blonde_ponytail",
+      "minecraft:icon": {
+        "texture": "wig_blonde_ponytail"
+      },
       "minecraft:render_offsets": "armor",
       "minecraft:armor": {
         "protection": 0,
